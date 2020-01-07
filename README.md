@@ -21,6 +21,10 @@ I felt that the 4,000 datasets are small, need a larger dataset to see why the c
 
 Overall, the challenge was successful.  On the Excel spreadsheet, I did a couple of graphs for visualization and statistical analysis. 
 
+I create a pivot table that can be filtered by category and counts how many were successful, live, failed or canceled.
+
+ 
+
 
 
 
