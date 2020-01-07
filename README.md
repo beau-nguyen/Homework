@@ -1,6 +1,6 @@
 # Kickstart Excel Challenge
 ## Project Objective
-The purpose of this challenge to organize and analyze a database of 4,000 past projects from Kickstart in order to uncover hidden trends.
+The purpose of this challenge is to organize and analyze a database of 4,000 past projects from Kickstart in order to uncover hidden trends.
 
 ## Methods Used
 •	Cleaning Data
