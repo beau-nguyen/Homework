@@ -20,7 +20,7 @@ The purpose of this challenge to organize and analyze a database of 4,000 past p
 
 •	For Data Visualization, I create a new sheet with a pivot table that will analyze the count how many campaigns were successful, failed, canceled or is currently live. 
 
-!(https://github.com/beau-nguyen/Kickstart-Excel-Challenge/blob/master/Image/Pivot%20Chart.PNG)
+![](https://github.com/beau-nguyen/Kickstart-Excel-Challenge/blob/master/Image/Pivot%20Chart.PNG)
 
 
 ## 1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
